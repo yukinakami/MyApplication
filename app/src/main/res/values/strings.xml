@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_score">ScoreActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="reset">RESET</string>
+    <string name="teama_name">Team A</string>
+    <string name="teama_score">0</string>
+    <string name="btna3_lable">+3 POINTS</string>
+    <string name="btna2_lable">+2 POINTS</string>
+    <string name="btna1_lable">FREE THROW</string>
+    <string name="teamb_name">Team B</string>
+    <string name="teamb_score">0</string>
+    <string name="btnb3_lable">+3 POINTS</string>
+    <string name="btnb2_lable">+2 POINTS</string>
+    <string name="btnb1_lable">FREE THROW</string>
+
+    <string name="meiyuan">USD</string>
+    <string name="ouyuan">EUR</string>
+    <string name="hanyuan">KRW</string>
+
+    <string name="rmb_show">Hello</string>
+    <string name="rmb_inp_tip">Input RMB</string>
+    <string name="btn_dollar_label">dollar</string>
+    <string name="btn_euro_label">euro</string>
+    <string name="btn_won_label">won</string>
+    <string name="btn_config_label">config</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
